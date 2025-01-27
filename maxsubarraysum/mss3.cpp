@@ -47,7 +47,7 @@ int maxsum(vector<int> &arr , int l , int h){
 }
 
 int main(){
-     vector<int> arr = {2, 3, 4, 5, 7};
+     vector<int> arr = {-6,-2,8,3,4,-2};
 
     int n = arr.size();
 
